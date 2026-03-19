@@ -1,0 +1,6 @@
+id=nfqttl
+name=Nfqttl
+version=v3.2-cikgusuraya
+versionCode=6
+author=cikgusuraya (forked from cyborg-one/nfqttl)
+description=Nfqttl v3.2: Mobile Data TTL Bypass + Hotspot Fix. WiFi keeps original TTL. No buffering!
